@@ -1,0 +1,4 @@
+# Intervalo entre drops, em ticks (20 ticks = 1 segundo)
+# 1  = 1 stack por tick   (1280 itens/s)
+# 20 = 1 stack por segundo (64 itens/s)
+interval-ticks: 1
